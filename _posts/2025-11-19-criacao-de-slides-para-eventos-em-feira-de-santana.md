@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Criação de slides para eventos em Feira de Santana"
-date: "2025-11-19 18:00"
+date: "2025-11-19 8:00"
 city: "Feira de Santana"
 category: "slides_eventos"
 ---
