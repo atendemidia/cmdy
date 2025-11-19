@@ -2,7 +2,7 @@ name: Build Scheduled
 
 on:
   schedule:
-    - cron: "*/222 * * * *"
+    - cron: "*/1 * * * *"
   workflow_dispatch:
 
 jobs:
